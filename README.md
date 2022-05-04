@@ -1,5 +1,3 @@
-# This contains all the datasets I have used my in python projects
-
-## I don't claim ownership for any of this data
-
-### I have taken it from kaggle and wikipedia
+# This contains all the datasets I have used my in python projects  and images of my notebooks.
+ 
+## I have downloaded some of the datasets from kaggle and extracted some datasets from wikipedia
