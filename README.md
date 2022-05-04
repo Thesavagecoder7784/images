@@ -1,3 +1,3 @@
 # This contains all the datasets I have used my in python projects  and images of my notebooks.
  
-## I have downloaded some of the datasets from kaggle and extracted some datasets from wikipedia
+## Theses are subsets of some of the datasets I have downloaded from Kaggle and some datasets scraped from wikipedia
